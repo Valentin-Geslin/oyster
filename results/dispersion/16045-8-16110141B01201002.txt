@@ -1,0 +1,19 @@
+Theoretical random nearest neighbor distance = 133.53597375772998
+Variance = 133.53597375772998
+StdDev = 11.555776640180008
+Measured average nearest neighbor distance = 206.28586150639563
+Variance (mean) = 451331.65847085183
+StdDev (mean) = 671.8122196498451
+Measured median nearest neighbor distance = 53.72445593303462
+Variance (median) = 474606.64094137144
+StdDev (median) = 688.9170058442246
+--------------------------------------------------------------------------
+Sample size n = 167
+d.f. = 166.0
+t = 149.3335448502476 (Welch's t-test)
+critical t-value = 0.0
+confidence interval = 95%
+--------------------------------------------------------------------------
+  --->   clustering particles
+significant different from random distribution with p < 0.0
+according to mean of the centroid NND distance
