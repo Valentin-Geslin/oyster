@@ -1,0 +1,11 @@
+Image A: 64853_IHC_mask.png
+Image B: 64853.png
+
+Pearson's Coefficient:
+r=0.0
+
+Image A: 64853_IHC_mask.png
+Image B: 64853.png
+
+Pearson's Coefficient:
+r=0.0
