@@ -1,0 +1,4116 @@
+{
+  "version": "0.4.4",
+  "createTimestamp": 1698044377044,
+  "modifyTimestamp": 1698044377044,
+  "uri": "file:/C:/Users/2923585/OYSTER/QuPath-project/project.qpproj",
+  "lastID": 83,
+  "images": [
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/64851.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "64851.ndpi",
+          "width": 59520,
+          "height": 43008,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 59520,
+              "height": 43008
+            },
+            {
+              "downsample": 2.0,
+              "width": 29760,
+              "height": 21504
+            },
+            {
+              "downsample": 4.0,
+              "width": 14880,
+              "height": 10752
+            },
+            {
+              "downsample": 8.0,
+              "width": 7440,
+              "height": 5376
+            },
+            {
+              "downsample": 16.0,
+              "width": 3720,
+              "height": 2688
+            },
+            {
+              "downsample": 32.0,
+              "width": 1860,
+              "height": 1344
+            },
+            {
+              "downsample": 64.0,
+              "width": 930,
+              "height": 672
+            },
+            {
+              "downsample": 128.0,
+              "width": 465,
+              "height": 336
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.4548348949331393,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4546281142025823,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 43,
+      "randomizedName": "0bcf85c9-cb90-41bb-8350-9ce3416e6642",
+      "imageName": "64851.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/64852.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "64852.ndpi",
+          "width": 69120,
+          "height": 50688,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 69120,
+              "height": 50688
+            },
+            {
+              "downsample": 2.0,
+              "width": 34560,
+              "height": 25344
+            },
+            {
+              "downsample": 4.0,
+              "width": 17280,
+              "height": 12672
+            },
+            {
+              "downsample": 8.0,
+              "width": 8640,
+              "height": 6336
+            },
+            {
+              "downsample": 16.0,
+              "width": 4320,
+              "height": 3168
+            },
+            {
+              "downsample": 32.0,
+              "width": 2160,
+              "height": 1584
+            },
+            {
+              "downsample": 64.0,
+              "width": 1080,
+              "height": 792
+            },
+            {
+              "downsample": 128.0,
+              "width": 540,
+              "height": 396
+            },
+            {
+              "downsample": 256.0,
+              "width": 270,
+              "height": 198
+            },
+            {
+              "downsample": 512.0,
+              "width": 135,
+              "height": 99
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.45475216007276037,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4545041359876375,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 44,
+      "randomizedName": "7ad24d5c-9b15-4579-aed0-25ffc642407c",
+      "imageName": "64852.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/64853.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "64853.ndpi",
+          "width": 61440,
+          "height": 39936,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 61440,
+              "height": 39936
+            },
+            {
+              "downsample": 2.0,
+              "width": 30720,
+              "height": 19968
+            },
+            {
+              "downsample": 4.0,
+              "width": 15360,
+              "height": 9984
+            },
+            {
+              "downsample": 8.0,
+              "width": 7680,
+              "height": 4992
+            },
+            {
+              "downsample": 16.0,
+              "width": 3840,
+              "height": 2496
+            },
+            {
+              "downsample": 32.0,
+              "width": 1920,
+              "height": 1248
+            },
+            {
+              "downsample": 64.0,
+              "width": 960,
+              "height": 624
+            },
+            {
+              "downsample": 128.0,
+              "width": 480,
+              "height": 312
+            },
+            {
+              "downsample": 256.0,
+              "width": 240,
+              "height": 156
+            },
+            {
+              "downsample": 512.0,
+              "width": 120,
+              "height": 78
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.45475216007276037,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4545041359876375,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 45,
+      "randomizedName": "249b2ff1-d21a-46e7-9c06-389b3b692f83",
+      "imageName": "64853.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/64854.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "64854.ndpi",
+          "width": 61440,
+          "height": 45568,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 61440,
+              "height": 45568
+            },
+            {
+              "downsample": 2.0,
+              "width": 30720,
+              "height": 22784
+            },
+            {
+              "downsample": 4.0,
+              "width": 15360,
+              "height": 11392
+            },
+            {
+              "downsample": 8.0,
+              "width": 7680,
+              "height": 5696
+            },
+            {
+              "downsample": 16.0,
+              "width": 3840,
+              "height": 2848
+            },
+            {
+              "downsample": 32.0,
+              "width": 1920,
+              "height": 1424
+            },
+            {
+              "downsample": 64.0,
+              "width": 960,
+              "height": 712
+            },
+            {
+              "downsample": 128.0,
+              "width": 480,
+              "height": 356
+            },
+            {
+              "downsample": 256.0,
+              "width": 240,
+              "height": 178
+            },
+            {
+              "downsample": 512.0,
+              "width": 120,
+              "height": 89
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.45475216007276037,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4545041359876375,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 46,
+      "randomizedName": "ed0f0779-6ae8-447a-be4c-c11505a30d6c",
+      "imageName": "64854.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/64856.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "64856.ndpi",
+          "width": 59520,
+          "height": 43008,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 59520,
+              "height": 43008
+            },
+            {
+              "downsample": 2.0,
+              "width": 29760,
+              "height": 21504
+            },
+            {
+              "downsample": 4.0,
+              "width": 14880,
+              "height": 10752
+            },
+            {
+              "downsample": 8.0,
+              "width": 7440,
+              "height": 5376
+            },
+            {
+              "downsample": 16.0,
+              "width": 3720,
+              "height": 2688
+            },
+            {
+              "downsample": 32.0,
+              "width": 1860,
+              "height": 1344
+            },
+            {
+              "downsample": 64.0,
+              "width": 930,
+              "height": 672
+            },
+            {
+              "downsample": 128.0,
+              "width": 465,
+              "height": 336
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.45475216007276037,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4545041359876375,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 47,
+      "randomizedName": "69d55f70-addb-4642-89ff-6fc6da9af8f8",
+      "imageName": "64856.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/64857.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "64857.ndpi",
+          "width": 63360,
+          "height": 52480,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 63360,
+              "height": 52480
+            },
+            {
+              "downsample": 2.0,
+              "width": 31680,
+              "height": 26240
+            },
+            {
+              "downsample": 4.0,
+              "width": 15840,
+              "height": 13120
+            },
+            {
+              "downsample": 8.0,
+              "width": 7920,
+              "height": 6560
+            },
+            {
+              "downsample": 16.0,
+              "width": 3960,
+              "height": 3280
+            },
+            {
+              "downsample": 32.0,
+              "width": 1980,
+              "height": 1640
+            },
+            {
+              "downsample": 64.0,
+              "width": 990,
+              "height": 820
+            },
+            {
+              "downsample": 128.0,
+              "width": 495,
+              "height": 410
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.45475216007276037,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4545041359876375,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 48,
+      "randomizedName": "c1cb88ba-a3c2-427b-aa95-b221b8a5d86d",
+      "imageName": "64857.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Control-J1/16049-2-3101002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16049-2-3101002.ndpi",
+          "width": 57600,
+          "height": 51712,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 57600,
+              "height": 51712
+            },
+            {
+              "downsample": 2.0,
+              "width": 28800,
+              "height": 25856
+            },
+            {
+              "downsample": 4.0,
+              "width": 14400,
+              "height": 12928
+            },
+            {
+              "downsample": 8.0,
+              "width": 7200,
+              "height": 6464
+            },
+            {
+              "downsample": 16.0,
+              "width": 3600,
+              "height": 3232
+            },
+            {
+              "downsample": 32.0,
+              "width": 1800,
+              "height": 1616
+            },
+            {
+              "downsample": 64.0,
+              "width": 900,
+              "height": 808
+            },
+            {
+              "downsample": 128.0,
+              "width": 450,
+              "height": 404
+            },
+            {
+              "downsample": 256.0,
+              "width": 225,
+              "height": 202
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.45475216007276037,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4545041359876375,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 49,
+      "randomizedName": "b549244c-537d-4189-bf7f-bc6e36333a2a",
+      "imageName": "16049-2-3101002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Control-J1/16049-3-3201002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16049-3-3201002.ndpi",
+          "width": 59520,
+          "height": 47360,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 59520,
+              "height": 47360
+            },
+            {
+              "downsample": 2.0,
+              "width": 29760,
+              "height": 23680
+            },
+            {
+              "downsample": 4.0,
+              "width": 14880,
+              "height": 11840
+            },
+            {
+              "downsample": 8.0,
+              "width": 7440,
+              "height": 5920
+            },
+            {
+              "downsample": 16.0,
+              "width": 3720,
+              "height": 2960
+            },
+            {
+              "downsample": 32.0,
+              "width": 1860,
+              "height": 1480
+            },
+            {
+              "downsample": 64.0,
+              "width": 930,
+              "height": 740
+            },
+            {
+              "downsample": 128.0,
+              "width": 465,
+              "height": 370
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.45475216007276037,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4545041359876375,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 50,
+      "randomizedName": "e4c88632-066b-4cd5-babc-3bf336017595",
+      "imageName": "16049-3-3201002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Control-J1/16049-5-16110141B00201002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16049-5-16110141B00201002.ndpi",
+          "width": 55680,
+          "height": 49408,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 55680,
+              "height": 49408
+            },
+            {
+              "downsample": 2.0,
+              "width": 27840,
+              "height": 24704
+            },
+            {
+              "downsample": 4.0,
+              "width": 13920,
+              "height": 12352
+            },
+            {
+              "downsample": 8.0,
+              "width": 6960,
+              "height": 6176
+            },
+            {
+              "downsample": 16.0,
+              "width": 3480,
+              "height": 3088
+            },
+            {
+              "downsample": 32.0,
+              "width": 1740,
+              "height": 1544
+            },
+            {
+              "downsample": 64.0,
+              "width": 870,
+              "height": 772
+            },
+            {
+              "downsample": 128.0,
+              "width": 435,
+              "height": 386
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.4548348949331393,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4546281142025823,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 51,
+      "randomizedName": "2e0ee9ae-16ae-4496-a7e1-3f5d076a7b53",
+      "imageName": "16049-5-16110141B00201002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Control-J4/16049-6-3301002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16049-6-3301002.ndpi",
+          "width": 59520,
+          "height": 44544,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 59520,
+              "height": 44544
+            },
+            {
+              "downsample": 2.0,
+              "width": 29760,
+              "height": 22272
+            },
+            {
+              "downsample": 4.0,
+              "width": 14880,
+              "height": 11136
+            },
+            {
+              "downsample": 8.0,
+              "width": 7440,
+              "height": 5568
+            },
+            {
+              "downsample": 16.0,
+              "width": 3720,
+              "height": 2784
+            },
+            {
+              "downsample": 32.0,
+              "width": 1860,
+              "height": 1392
+            },
+            {
+              "downsample": 64.0,
+              "width": 930,
+              "height": 696
+            },
+            {
+              "downsample": 128.0,
+              "width": 465,
+              "height": 348
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.45475216007276037,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4545041359876375,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 52,
+      "randomizedName": "c055c5ae-c78a-4584-a935-858945933fa0",
+      "imageName": "16049-6-3301002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Control-J4/16049-7-16110141B00301002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16049-7-16110141B00301002.ndpi",
+          "width": 59520,
+          "height": 44544,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 59520,
+              "height": 44544
+            },
+            {
+              "downsample": 2.0,
+              "width": 29760,
+              "height": 22272
+            },
+            {
+              "downsample": 4.0,
+              "width": 14880,
+              "height": 11136
+            },
+            {
+              "downsample": 8.0,
+              "width": 7440,
+              "height": 5568
+            },
+            {
+              "downsample": 16.0,
+              "width": 3720,
+              "height": 2784
+            },
+            {
+              "downsample": 32.0,
+              "width": 1860,
+              "height": 1392
+            },
+            {
+              "downsample": 64.0,
+              "width": 930,
+              "height": 696
+            },
+            {
+              "downsample": 128.0,
+              "width": 465,
+              "height": 348
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.4548348949331393,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4546281142025823,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 53,
+      "randomizedName": "592b3213-89be-4766-a8a6-feac123c681f",
+      "imageName": "16049-7-16110141B00301002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Control-J4/16049-8-3401002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16049-8-3401002.ndpi",
+          "width": 55680,
+          "height": 45056,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 55680,
+              "height": 45056
+            },
+            {
+              "downsample": 2.0,
+              "width": 27840,
+              "height": 22528
+            },
+            {
+              "downsample": 4.0,
+              "width": 13920,
+              "height": 11264
+            },
+            {
+              "downsample": 8.0,
+              "width": 6960,
+              "height": 5632
+            },
+            {
+              "downsample": 16.0,
+              "width": 3480,
+              "height": 2816
+            },
+            {
+              "downsample": 32.0,
+              "width": 1740,
+              "height": 1408
+            },
+            {
+              "downsample": 64.0,
+              "width": 870,
+              "height": 704
+            },
+            {
+              "downsample": 128.0,
+              "width": 435,
+              "height": 352
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.45475216007276037,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4545041359876375,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 54,
+      "randomizedName": "f4822650-ab71-4f8e-840b-6899b7f3432e",
+      "imageName": "16049-8-3401002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Control-J4/16049-10-16110141B00401002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16049-10-16110141B00401002.ndpi",
+          "width": 59520,
+          "height": 48640,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 59520,
+              "height": 48640
+            },
+            {
+              "downsample": 2.0,
+              "width": 29760,
+              "height": 24320
+            },
+            {
+              "downsample": 4.0,
+              "width": 14880,
+              "height": 12160
+            },
+            {
+              "downsample": 8.0,
+              "width": 7440,
+              "height": 6080
+            },
+            {
+              "downsample": 16.0,
+              "width": 3720,
+              "height": 3040
+            },
+            {
+              "downsample": 32.0,
+              "width": 1860,
+              "height": 1520
+            },
+            {
+              "downsample": 64.0,
+              "width": 930,
+              "height": 760
+            },
+            {
+              "downsample": 128.0,
+              "width": 465,
+              "height": 380
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.4548348949331393,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4546281142025823,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 55,
+      "randomizedName": "d5132ab1-94c9-40da-9785-ba2ec575f3a2",
+      "imageName": "16049-10-16110141B00401002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J1/16045-1-101002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-1-101002.ndpi",
+          "width": 65280,
+          "height": 52480,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 65280,
+              "height": 52480
+            },
+            {
+              "downsample": 2.0,
+              "width": 32640,
+              "height": 26240
+            },
+            {
+              "downsample": 4.0,
+              "width": 16320,
+              "height": 13120
+            },
+            {
+              "downsample": 8.0,
+              "width": 8160,
+              "height": 6560
+            },
+            {
+              "downsample": 16.0,
+              "width": 4080,
+              "height": 3280
+            },
+            {
+              "downsample": 32.0,
+              "width": 2040,
+              "height": 1640
+            },
+            {
+              "downsample": 64.0,
+              "width": 1020,
+              "height": 820
+            },
+            {
+              "downsample": 128.0,
+              "width": 510,
+              "height": 410
+            },
+            {
+              "downsample": 256.0,
+              "width": 255,
+              "height": 205
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.45475216007276037,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4545041359876375,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 56,
+      "randomizedName": "4800ecdd-e09c-4e09-9198-42448f1f2276",
+      "imageName": "16045-1-101002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J1/16045-2-16110141B00901002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-2-16110141B00901002.ndpi",
+          "width": 61440,
+          "height": 53760,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 61440,
+              "height": 53760
+            },
+            {
+              "downsample": 2.0,
+              "width": 30720,
+              "height": 26880
+            },
+            {
+              "downsample": 4.0,
+              "width": 15360,
+              "height": 13440
+            },
+            {
+              "downsample": 8.0,
+              "width": 7680,
+              "height": 6720
+            },
+            {
+              "downsample": 16.0,
+              "width": 3840,
+              "height": 3360
+            },
+            {
+              "downsample": 32.0,
+              "width": 1920,
+              "height": 1680
+            },
+            {
+              "downsample": 64.0,
+              "width": 960,
+              "height": 840
+            },
+            {
+              "downsample": 128.0,
+              "width": 480,
+              "height": 420
+            },
+            {
+              "downsample": 256.0,
+              "width": 240,
+              "height": 210
+            },
+            {
+              "downsample": 512.0,
+              "width": 120,
+              "height": 105
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.4548348949331393,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4546281142025823,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 57,
+      "randomizedName": "f88b9c79-7d24-4710-9ac9-399ef50eea1c",
+      "imageName": "16045-2-16110141B00901002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J1/16045-3-16110141B01001002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-3-16110141B01001002.ndpi",
+          "width": 61440,
+          "height": 41472,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 61440,
+              "height": 41472
+            },
+            {
+              "downsample": 2.0,
+              "width": 30720,
+              "height": 20736
+            },
+            {
+              "downsample": 4.0,
+              "width": 15360,
+              "height": 10368
+            },
+            {
+              "downsample": 8.0,
+              "width": 7680,
+              "height": 5184
+            },
+            {
+              "downsample": 16.0,
+              "width": 3840,
+              "height": 2592
+            },
+            {
+              "downsample": 32.0,
+              "width": 1920,
+              "height": 1296
+            },
+            {
+              "downsample": 64.0,
+              "width": 960,
+              "height": 648
+            },
+            {
+              "downsample": 128.0,
+              "width": 480,
+              "height": 324
+            },
+            {
+              "downsample": 256.0,
+              "width": 240,
+              "height": 162
+            },
+            {
+              "downsample": 512.0,
+              "width": 120,
+              "height": 81
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.4548348949331393,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4546281142025823,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 58,
+      "randomizedName": "9397ee92-56b1-479a-b641-a5f4eefcb088",
+      "imageName": "16045-3-16110141B01001002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J1/16045-4-201002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-4-201002.ndpi",
+          "width": 61440,
+          "height": 53504,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 61440,
+              "height": 53504
+            },
+            {
+              "downsample": 2.0,
+              "width": 30720,
+              "height": 26752
+            },
+            {
+              "downsample": 4.0,
+              "width": 15360,
+              "height": 13376
+            },
+            {
+              "downsample": 8.0,
+              "width": 7680,
+              "height": 6688
+            },
+            {
+              "downsample": 16.0,
+              "width": 3840,
+              "height": 3344
+            },
+            {
+              "downsample": 32.0,
+              "width": 1920,
+              "height": 1672
+            },
+            {
+              "downsample": 64.0,
+              "width": 960,
+              "height": 836
+            },
+            {
+              "downsample": 128.0,
+              "width": 480,
+              "height": 418
+            },
+            {
+              "downsample": 256.0,
+              "width": 240,
+              "height": 209
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.45475216007276037,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4545041359876375,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 59,
+      "randomizedName": "e559cb9c-5bec-497d-8993-4267ca547d6c",
+      "imageName": "16045-4-201002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J1/16045-5-16110141B01101002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-5-16110141B01101002.ndpi",
+          "width": 71040,
+          "height": 41728,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 71040,
+              "height": 41728
+            },
+            {
+              "downsample": 2.0,
+              "width": 35520,
+              "height": 20864
+            },
+            {
+              "downsample": 4.0,
+              "width": 17760,
+              "height": 10432
+            },
+            {
+              "downsample": 8.0,
+              "width": 8880,
+              "height": 5216
+            },
+            {
+              "downsample": 16.0,
+              "width": 4440,
+              "height": 2608
+            },
+            {
+              "downsample": 32.0,
+              "width": 2220,
+              "height": 1304
+            },
+            {
+              "downsample": 64.0,
+              "width": 1110,
+              "height": 652
+            },
+            {
+              "downsample": 128.0,
+              "width": 555,
+              "height": 326
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.4548348949331393,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4546281142025823,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 60,
+      "randomizedName": "12a1af86-bd9a-44ef-ab00-0a3435186fb5",
+      "imageName": "16045-5-16110141B01101002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J1/16045-6-301002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-6-301002.ndpi",
+          "width": 57600,
+          "height": 41728,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 57600,
+              "height": 41728
+            },
+            {
+              "downsample": 2.0,
+              "width": 28800,
+              "height": 20864
+            },
+            {
+              "downsample": 4.0,
+              "width": 14400,
+              "height": 10432
+            },
+            {
+              "downsample": 8.0,
+              "width": 7200,
+              "height": 5216
+            },
+            {
+              "downsample": 16.0,
+              "width": 3600,
+              "height": 2608
+            },
+            {
+              "downsample": 32.0,
+              "width": 1800,
+              "height": 1304
+            },
+            {
+              "downsample": 64.0,
+              "width": 900,
+              "height": 652
+            },
+            {
+              "downsample": 128.0,
+              "width": 450,
+              "height": 326
+            },
+            {
+              "downsample": 256.0,
+              "width": 225,
+              "height": 163
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.45475216007276037,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4545041359876375,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 61,
+      "randomizedName": "48257fe1-7e09-4c24-9a35-34091267949f",
+      "imageName": "16045-6-301002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J1/16045-7-401003.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-7-401003.ndpi",
+          "width": 69120,
+          "height": 52736,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 69120,
+              "height": 52736
+            },
+            {
+              "downsample": 2.0,
+              "width": 34560,
+              "height": 26368
+            },
+            {
+              "downsample": 4.0,
+              "width": 17280,
+              "height": 13184
+            },
+            {
+              "downsample": 8.0,
+              "width": 8640,
+              "height": 6592
+            },
+            {
+              "downsample": 16.0,
+              "width": 4320,
+              "height": 3296
+            },
+            {
+              "downsample": 32.0,
+              "width": 2160,
+              "height": 1648
+            },
+            {
+              "downsample": 64.0,
+              "width": 1080,
+              "height": 824
+            },
+            {
+              "downsample": 128.0,
+              "width": 540,
+              "height": 412
+            },
+            {
+              "downsample": 256.0,
+              "width": 270,
+              "height": 206
+            },
+            {
+              "downsample": 512.0,
+              "width": 135,
+              "height": 103
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.45475216007276037,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4545041359876375,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 62,
+      "randomizedName": "5369fbbd-98a1-4e2f-9f10-89fe38deaec2",
+      "imageName": "16045-7-401003.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J1/16045-8-16110141B01201002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-8-16110141B01201002.ndpi",
+          "width": 63360,
+          "height": 48128,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 63360,
+              "height": 48128
+            },
+            {
+              "downsample": 2.0,
+              "width": 31680,
+              "height": 24064
+            },
+            {
+              "downsample": 4.0,
+              "width": 15840,
+              "height": 12032
+            },
+            {
+              "downsample": 8.0,
+              "width": 7920,
+              "height": 6016
+            },
+            {
+              "downsample": 16.0,
+              "width": 3960,
+              "height": 3008
+            },
+            {
+              "downsample": 32.0,
+              "width": 1980,
+              "height": 1504
+            },
+            {
+              "downsample": 64.0,
+              "width": 990,
+              "height": 752
+            },
+            {
+              "downsample": 128.0,
+              "width": 495,
+              "height": 376
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.4548348949331393,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4546281142025823,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 63,
+      "randomizedName": "1c808125-9cbe-4530-a37c-9a63651b0f1a",
+      "imageName": "16045-8-16110141B01201002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J1/16045-9-16110141B01301002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-9-16110141B01301002.ndpi",
+          "width": 49920,
+          "height": 52992,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 49920,
+              "height": 52992
+            },
+            {
+              "downsample": 2.0,
+              "width": 24960,
+              "height": 26496
+            },
+            {
+              "downsample": 4.0,
+              "width": 12480,
+              "height": 13248
+            },
+            {
+              "downsample": 8.0,
+              "width": 6240,
+              "height": 6624
+            },
+            {
+              "downsample": 16.0,
+              "width": 3120,
+              "height": 3312
+            },
+            {
+              "downsample": 32.0,
+              "width": 1560,
+              "height": 1656
+            },
+            {
+              "downsample": 64.0,
+              "width": 780,
+              "height": 828
+            },
+            {
+              "downsample": 128.0,
+              "width": 390,
+              "height": 414
+            },
+            {
+              "downsample": 256.0,
+              "width": 195,
+              "height": 207
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.4548348949331393,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4546281142025823,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 64,
+      "randomizedName": "add9e45a-7835-4144-946a-57d34e616915",
+      "imageName": "16045-9-16110141B01301002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J1/16045-10-16110141B01401002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-10-16110141B01401002.ndpi",
+          "width": 55680,
+          "height": 47360,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 55680,
+              "height": 47360
+            },
+            {
+              "downsample": 2.0,
+              "width": 27840,
+              "height": 23680
+            },
+            {
+              "downsample": 4.0,
+              "width": 13920,
+              "height": 11840
+            },
+            {
+              "downsample": 8.0,
+              "width": 6960,
+              "height": 5920
+            },
+            {
+              "downsample": 16.0,
+              "width": 3480,
+              "height": 2960
+            },
+            {
+              "downsample": 32.0,
+              "width": 1740,
+              "height": 1480
+            },
+            {
+              "downsample": 64.0,
+              "width": 870,
+              "height": 740
+            },
+            {
+              "downsample": 128.0,
+              "width": 435,
+              "height": 370
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.4548348949331393,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4546281142025823,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 65,
+      "randomizedName": "b4b597bf-e1cf-43f8-8ee5-dd9271e34a94",
+      "imageName": "16045-10-16110141B01401002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J1/16045-11-16110141B01501002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-11-16110141B01501002.ndpi",
+          "width": 55680,
+          "height": 40448,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 55680,
+              "height": 40448
+            },
+            {
+              "downsample": 2.0,
+              "width": 27840,
+              "height": 20224
+            },
+            {
+              "downsample": 4.0,
+              "width": 13920,
+              "height": 10112
+            },
+            {
+              "downsample": 8.0,
+              "width": 6960,
+              "height": 5056
+            },
+            {
+              "downsample": 16.0,
+              "width": 3480,
+              "height": 2528
+            },
+            {
+              "downsample": 32.0,
+              "width": 1740,
+              "height": 1264
+            },
+            {
+              "downsample": 64.0,
+              "width": 870,
+              "height": 632
+            },
+            {
+              "downsample": 128.0,
+              "width": 435,
+              "height": 316
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.4548348949331393,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4546281142025823,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 66,
+      "randomizedName": "3dd938c1-d4b5-417e-9031-7e8431a16017",
+      "imageName": "16045-11-16110141B01501002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J1/16045-13-601002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-13-601002.ndpi",
+          "width": 38400,
+          "height": 43520,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 38400,
+              "height": 43520
+            },
+            {
+              "downsample": 2.0,
+              "width": 19200,
+              "height": 21760
+            },
+            {
+              "downsample": 4.0,
+              "width": 9600,
+              "height": 10880
+            },
+            {
+              "downsample": 8.0,
+              "width": 4800,
+              "height": 5440
+            },
+            {
+              "downsample": 16.0,
+              "width": 2400,
+              "height": 2720
+            },
+            {
+              "downsample": 32.0,
+              "width": 1200,
+              "height": 1360
+            },
+            {
+              "downsample": 64.0,
+              "width": 600,
+              "height": 680
+            },
+            {
+              "downsample": 128.0,
+              "width": 300,
+              "height": 340
+            },
+            {
+              "downsample": 256.0,
+              "width": 150,
+              "height": 170
+            },
+            {
+              "downsample": 512.0,
+              "width": 75,
+              "height": 85
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.45475216007276037,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4545041359876375,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 67,
+      "randomizedName": "f6dad9a4-ade6-4d20-a70c-2093488d4f2b",
+      "imageName": "16045-13-601002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J1/16045-14-16110141B01601002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-14-16110141B01601002.ndpi",
+          "width": 59520,
+          "height": 39424,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 59520,
+              "height": 39424
+            },
+            {
+              "downsample": 2.0,
+              "width": 29760,
+              "height": 19712
+            },
+            {
+              "downsample": 4.0,
+              "width": 14880,
+              "height": 9856
+            },
+            {
+              "downsample": 8.0,
+              "width": 7440,
+              "height": 4928
+            },
+            {
+              "downsample": 16.0,
+              "width": 3720,
+              "height": 2464
+            },
+            {
+              "downsample": 32.0,
+              "width": 1860,
+              "height": 1232
+            },
+            {
+              "downsample": 64.0,
+              "width": 930,
+              "height": 616
+            },
+            {
+              "downsample": 128.0,
+              "width": 465,
+              "height": 308
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.4548348949331393,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4546281142025823,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 68,
+      "randomizedName": "fd216708-ee19-4567-b0af-c52809dee80f",
+      "imageName": "16045-14-16110141B01601002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J4/16045-16-701002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-16-701002.ndpi",
+          "width": 65280,
+          "height": 48896,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 65280,
+              "height": 48896
+            },
+            {
+              "downsample": 2.0,
+              "width": 32640,
+              "height": 24448
+            },
+            {
+              "downsample": 4.0,
+              "width": 16320,
+              "height": 12224
+            },
+            {
+              "downsample": 8.0,
+              "width": 8160,
+              "height": 6112
+            },
+            {
+              "downsample": 16.0,
+              "width": 4080,
+              "height": 3056
+            },
+            {
+              "downsample": 32.0,
+              "width": 2040,
+              "height": 1528
+            },
+            {
+              "downsample": 64.0,
+              "width": 1020,
+              "height": 764
+            },
+            {
+              "downsample": 128.0,
+              "width": 510,
+              "height": 382
+            },
+            {
+              "downsample": 256.0,
+              "width": 255,
+              "height": 191
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.45475216007276037,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4545041359876375,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 69,
+      "randomizedName": "2666e3e1-0d47-4aa8-8bb5-de9fa980d2b4",
+      "imageName": "16045-16-701002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J4/16045-17-801002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-17-801002.ndpi",
+          "width": 63360,
+          "height": 43520,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 63360,
+              "height": 43520
+            },
+            {
+              "downsample": 2.0,
+              "width": 31680,
+              "height": 21760
+            },
+            {
+              "downsample": 4.0,
+              "width": 15840,
+              "height": 10880
+            },
+            {
+              "downsample": 8.0,
+              "width": 7920,
+              "height": 5440
+            },
+            {
+              "downsample": 16.0,
+              "width": 3960,
+              "height": 2720
+            },
+            {
+              "downsample": 32.0,
+              "width": 1980,
+              "height": 1360
+            },
+            {
+              "downsample": 64.0,
+              "width": 990,
+              "height": 680
+            },
+            {
+              "downsample": 128.0,
+              "width": 495,
+              "height": 340
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.45475216007276037,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4545041359876375,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 70,
+      "randomizedName": "8bb27815-5e6f-40c8-83f8-9e759f095cf5",
+      "imageName": "16045-17-801002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J4/16045-18-901002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-18-901002.ndpi",
+          "width": 67200,
+          "height": 36096,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 67200,
+              "height": 36096
+            },
+            {
+              "downsample": 2.0,
+              "width": 33600,
+              "height": 18048
+            },
+            {
+              "downsample": 4.0,
+              "width": 16800,
+              "height": 9024
+            },
+            {
+              "downsample": 8.0,
+              "width": 8400,
+              "height": 4512
+            },
+            {
+              "downsample": 16.0,
+              "width": 4200,
+              "height": 2256
+            },
+            {
+              "downsample": 32.0,
+              "width": 2100,
+              "height": 1128
+            },
+            {
+              "downsample": 64.0,
+              "width": 1050,
+              "height": 564
+            },
+            {
+              "downsample": 128.0,
+              "width": 525,
+              "height": 282
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.45475216007276037,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4545041359876375,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 71,
+      "randomizedName": "202c8c2b-5aac-4b3a-8dd1-d70001998fd3",
+      "imageName": "16045-18-901002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J4/16045-19-1001002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-19-1001002.ndpi",
+          "width": 63360,
+          "height": 45056,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 63360,
+              "height": 45056
+            },
+            {
+              "downsample": 2.0,
+              "width": 31680,
+              "height": 22528
+            },
+            {
+              "downsample": 4.0,
+              "width": 15840,
+              "height": 11264
+            },
+            {
+              "downsample": 8.0,
+              "width": 7920,
+              "height": 5632
+            },
+            {
+              "downsample": 16.0,
+              "width": 3960,
+              "height": 2816
+            },
+            {
+              "downsample": 32.0,
+              "width": 1980,
+              "height": 1408
+            },
+            {
+              "downsample": 64.0,
+              "width": 990,
+              "height": 704
+            },
+            {
+              "downsample": 128.0,
+              "width": 495,
+              "height": 352
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.45475216007276037,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4545041359876375,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 72,
+      "randomizedName": "adcd6b7d-0cd1-476f-910d-cc7b783dac61",
+      "imageName": "16045-19-1001002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J4/16045-20-1101002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-20-1101002.ndpi",
+          "width": 53760,
+          "height": 38656,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 53760,
+              "height": 38656
+            },
+            {
+              "downsample": 2.0,
+              "width": 26880,
+              "height": 19328
+            },
+            {
+              "downsample": 4.0,
+              "width": 13440,
+              "height": 9664
+            },
+            {
+              "downsample": 8.0,
+              "width": 6720,
+              "height": 4832
+            },
+            {
+              "downsample": 16.0,
+              "width": 3360,
+              "height": 2416
+            },
+            {
+              "downsample": 32.0,
+              "width": 1680,
+              "height": 1208
+            },
+            {
+              "downsample": 64.0,
+              "width": 840,
+              "height": 604
+            },
+            {
+              "downsample": 128.0,
+              "width": 420,
+              "height": 302
+            },
+            {
+              "downsample": 256.0,
+              "width": 210,
+              "height": 151
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.45475216007276037,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4545041359876375,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 73,
+      "randomizedName": "8fa735aa-a77d-4c13-afb0-2b4e9fe8cd3a",
+      "imageName": "16045-20-1101002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J4/16045-21-1201002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-21-1201002.ndpi",
+          "width": 51840,
+          "height": 47360,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 51840,
+              "height": 47360
+            },
+            {
+              "downsample": 2.0,
+              "width": 25920,
+              "height": 23680
+            },
+            {
+              "downsample": 4.0,
+              "width": 12960,
+              "height": 11840
+            },
+            {
+              "downsample": 8.0,
+              "width": 6480,
+              "height": 5920
+            },
+            {
+              "downsample": 16.0,
+              "width": 3240,
+              "height": 2960
+            },
+            {
+              "downsample": 32.0,
+              "width": 1620,
+              "height": 1480
+            },
+            {
+              "downsample": 64.0,
+              "width": 810,
+              "height": 740
+            },
+            {
+              "downsample": 128.0,
+              "width": 405,
+              "height": 370
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.45475216007276037,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4545041359876375,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 74,
+      "randomizedName": "49de69f6-d100-447b-bb4b-36b6d761e421",
+      "imageName": "16045-21-1201002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J4/16045-22-16110141B01701002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-22-16110141B01701002.ndpi",
+          "width": 40320,
+          "height": 37376,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 40320,
+              "height": 37376
+            },
+            {
+              "downsample": 2.0,
+              "width": 20160,
+              "height": 18688
+            },
+            {
+              "downsample": 4.0,
+              "width": 10080,
+              "height": 9344
+            },
+            {
+              "downsample": 8.0,
+              "width": 5040,
+              "height": 4672
+            },
+            {
+              "downsample": 16.0,
+              "width": 2520,
+              "height": 2336
+            },
+            {
+              "downsample": 32.0,
+              "width": 1260,
+              "height": 1168
+            },
+            {
+              "downsample": 64.0,
+              "width": 630,
+              "height": 584
+            },
+            {
+              "downsample": 128.0,
+              "width": 315,
+              "height": 292
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.4548348949331393,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4546281142025823,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 75,
+      "randomizedName": "5c6bf27f-e1ae-4849-af24-940b61c13f5e",
+      "imageName": "16045-22-16110141B01701002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J4/16045-23-16110141B01801002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-23-16110141B01801002.ndpi",
+          "width": 51840,
+          "height": 45824,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 51840,
+              "height": 45824
+            },
+            {
+              "downsample": 2.0,
+              "width": 25920,
+              "height": 22912
+            },
+            {
+              "downsample": 4.0,
+              "width": 12960,
+              "height": 11456
+            },
+            {
+              "downsample": 8.0,
+              "width": 6480,
+              "height": 5728
+            },
+            {
+              "downsample": 16.0,
+              "width": 3240,
+              "height": 2864
+            },
+            {
+              "downsample": 32.0,
+              "width": 1620,
+              "height": 1432
+            },
+            {
+              "downsample": 64.0,
+              "width": 810,
+              "height": 716
+            },
+            {
+              "downsample": 128.0,
+              "width": 405,
+              "height": 358
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.4548348949331393,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4546281142025823,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 76,
+      "randomizedName": "9e1aca4d-570b-4938-a49f-f9d18e86f552",
+      "imageName": "16045-23-16110141B01801002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J4/16045-24-16110141B01901002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-24-16110141B01901002.ndpi",
+          "width": 55680,
+          "height": 35328,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 55680,
+              "height": 35328
+            },
+            {
+              "downsample": 2.0,
+              "width": 27840,
+              "height": 17664
+            },
+            {
+              "downsample": 4.0,
+              "width": 13920,
+              "height": 8832
+            },
+            {
+              "downsample": 8.0,
+              "width": 6960,
+              "height": 4416
+            },
+            {
+              "downsample": 16.0,
+              "width": 3480,
+              "height": 2208
+            },
+            {
+              "downsample": 32.0,
+              "width": 1740,
+              "height": 1104
+            },
+            {
+              "downsample": 64.0,
+              "width": 870,
+              "height": 552
+            },
+            {
+              "downsample": 128.0,
+              "width": 435,
+              "height": 276
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.4548348949331393,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4546281142025823,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 77,
+      "randomizedName": "f82ce275-c54d-4d82-a066-b5dea4a2185a",
+      "imageName": "16045-24-16110141B01901002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J4/16045-25-1301002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-25-1301002.ndpi",
+          "width": 55680,
+          "height": 48896,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 55680,
+              "height": 48896
+            },
+            {
+              "downsample": 2.0,
+              "width": 27840,
+              "height": 24448
+            },
+            {
+              "downsample": 4.0,
+              "width": 13920,
+              "height": 12224
+            },
+            {
+              "downsample": 8.0,
+              "width": 6960,
+              "height": 6112
+            },
+            {
+              "downsample": 16.0,
+              "width": 3480,
+              "height": 3056
+            },
+            {
+              "downsample": 32.0,
+              "width": 1740,
+              "height": 1528
+            },
+            {
+              "downsample": 64.0,
+              "width": 870,
+              "height": 764
+            },
+            {
+              "downsample": 128.0,
+              "width": 435,
+              "height": 382
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.45475216007276037,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4545041359876375,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 78,
+      "randomizedName": "4a864148-3337-46c2-8837-a271b5394eb5",
+      "imageName": "16045-25-1301002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J4/16045-28-16110141B02001002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-28-16110141B02001002.ndpi",
+          "width": 42240,
+          "height": 48128,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 42240,
+              "height": 48128
+            },
+            {
+              "downsample": 2.0,
+              "width": 21120,
+              "height": 24064
+            },
+            {
+              "downsample": 4.0,
+              "width": 10560,
+              "height": 12032
+            },
+            {
+              "downsample": 8.0,
+              "width": 5280,
+              "height": 6016
+            },
+            {
+              "downsample": 16.0,
+              "width": 2640,
+              "height": 3008
+            },
+            {
+              "downsample": 32.0,
+              "width": 1320,
+              "height": 1504
+            },
+            {
+              "downsample": 64.0,
+              "width": 660,
+              "height": 752
+            },
+            {
+              "downsample": 128.0,
+              "width": 330,
+              "height": 376
+            },
+            {
+              "downsample": 256.0,
+              "width": 165,
+              "height": 188
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.4548348949331393,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4546281142025823,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 79,
+      "randomizedName": "d1e9ceae-5e46-41a5-b022-d5cfebaab909",
+      "imageName": "16045-28-16110141B02001002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J4/16045-29-16110141B02101002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-29-16110141B02101002.ndpi",
+          "width": 46080,
+          "height": 44032,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 46080,
+              "height": 44032
+            },
+            {
+              "downsample": 2.0,
+              "width": 23040,
+              "height": 22016
+            },
+            {
+              "downsample": 4.0,
+              "width": 11520,
+              "height": 11008
+            },
+            {
+              "downsample": 8.0,
+              "width": 5760,
+              "height": 5504
+            },
+            {
+              "downsample": 16.0,
+              "width": 2880,
+              "height": 2752
+            },
+            {
+              "downsample": 32.0,
+              "width": 1440,
+              "height": 1376
+            },
+            {
+              "downsample": 64.0,
+              "width": 720,
+              "height": 688
+            },
+            {
+              "downsample": 128.0,
+              "width": 360,
+              "height": 344
+            },
+            {
+              "downsample": 256.0,
+              "width": 180,
+              "height": 172
+            },
+            {
+              "downsample": 512.0,
+              "width": 90,
+              "height": 86
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.4548348949331393,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4546281142025823,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 80,
+      "randomizedName": "826ac3e2-2ab0-467a-a1a1-fcf192fce5c6",
+      "imageName": "16045-29-16110141B02101002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J4/16045-31-16110141B02201002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-31-16110141B02201002.ndpi",
+          "width": 63360,
+          "height": 39680,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 63360,
+              "height": 39680
+            },
+            {
+              "downsample": 2.0,
+              "width": 31680,
+              "height": 19840
+            },
+            {
+              "downsample": 4.0,
+              "width": 15840,
+              "height": 9920
+            },
+            {
+              "downsample": 8.0,
+              "width": 7920,
+              "height": 4960
+            },
+            {
+              "downsample": 16.0,
+              "width": 3960,
+              "height": 2480
+            },
+            {
+              "downsample": 32.0,
+              "width": 1980,
+              "height": 1240
+            },
+            {
+              "downsample": 64.0,
+              "width": 990,
+              "height": 620
+            },
+            {
+              "downsample": 128.0,
+              "width": 495,
+              "height": 310
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.4548348949331393,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4546281142025823,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 81,
+      "randomizedName": "ea3bf0e8-e735-4998-8b2c-6d18b8111240",
+      "imageName": "16045-31-16110141B02201002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J4/16045-32-1701002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-32-1701002.ndpi",
+          "width": 65280,
+          "height": 36352,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 65280,
+              "height": 36352
+            },
+            {
+              "downsample": 2.0,
+              "width": 32640,
+              "height": 18176
+            },
+            {
+              "downsample": 4.0,
+              "width": 16320,
+              "height": 9088
+            },
+            {
+              "downsample": 8.0,
+              "width": 8160,
+              "height": 4544
+            },
+            {
+              "downsample": 16.0,
+              "width": 4080,
+              "height": 2272
+            },
+            {
+              "downsample": 32.0,
+              "width": 2040,
+              "height": 1136
+            },
+            {
+              "downsample": 64.0,
+              "width": 1020,
+              "height": 568
+            },
+            {
+              "downsample": 128.0,
+              "width": 510,
+              "height": 284
+            },
+            {
+              "downsample": 256.0,
+              "width": 255,
+              "height": 142
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.45475216007276037,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4545041359876375,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 82,
+      "randomizedName": "61b3dc64-1dbe-4d33-b382-1501053c9d8d",
+      "imageName": "16045-32-1701002.ndpi",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.openslide.OpenslideServerBuilder",
+        "uri": "file:/D:/PhD_STAVANGER/IMAGE_ANALYSIS/PROJECT/OYSTER/WSI/HSI/Infected-J4/16045-50-16110141B02401002.ndpi",
+        "args": [],
+        "metadata": {
+          "name": "16045-50-16110141B02401002.ndpi",
+          "width": 53760,
+          "height": 38656,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": true,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 53760,
+              "height": 38656
+            },
+            {
+              "downsample": 2.0,
+              "width": 26880,
+              "height": 19328
+            },
+            {
+              "downsample": 4.0,
+              "width": 13440,
+              "height": 9664
+            },
+            {
+              "downsample": 8.0,
+              "width": 6720,
+              "height": 4832
+            },
+            {
+              "downsample": 16.0,
+              "width": 3360,
+              "height": 2416
+            },
+            {
+              "downsample": 32.0,
+              "width": 1680,
+              "height": 1208
+            },
+            {
+              "downsample": 64.0,
+              "width": 840,
+              "height": 604
+            },
+            {
+              "downsample": 128.0,
+              "width": 420,
+              "height": 302
+            },
+            {
+              "downsample": 256.0,
+              "width": 210,
+              "height": 151
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.4548348949331393,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.4546281142025823,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "magnification": 20.0,
+          "preferredTileWidth": 1920,
+          "preferredTileHeight": 8
+        }
+      },
+      "entryID": 83,
+      "randomizedName": "98f14a57-e6dd-4351-94a6-36378baf0209",
+      "imageName": "16045-50-16110141B02401002.ndpi",
+      "metadata": {}
+    }
+  ]
+}
